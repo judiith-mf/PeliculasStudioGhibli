@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .cabecera {
+    background-color: #716844ac;
+    color: white;
+    text-transform: uppercase;
+    height: 70px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .img {
+    width: 120px;
+  }
+  
+  .cabecera__nav .ul {
+    display: flex;
+    gap: 30px;
+  }
+  
+  .cabecera__nav li {
+    list-style: none;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .imgTotoro figure{
+    text-align: center;
+    padding: 40px 0px;
+  }
+
+  .inicio{
+    text-decoration: none;
+    color: white;
+  }
+

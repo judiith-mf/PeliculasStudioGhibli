@@ -1,0 +1,89 @@
+.container__detalles{
+    border-radius: 20px;
+    border: 3px solid #716844ac;
+    max-width: 950px;
+    margin: 20px auto;
+    padding: 30px;
+}
+
+    .titPersonajes{
+        text-align: center;
+        margin-top: 60px;
+        padding: 10px;
+        font-size: 40px;
+        color: #716844ac;
+        border-top: 1px solid #716844ac;
+        border-bottom: 1px solid #716844ac;
+    }
+.poster__info{
+    display: grid;
+    grid-template-columns: 1fr 450px 65px;
+    gap: 20px;
+}
+
+/* .poster__info * {
+    border: 1px solid black;
+} */
+
+.poster__info img{
+    width: 260px;
+    border-radius: 20px;
+}
+
+.info h1{
+    font-size: 40px;
+    color: #716844ac;
+    padding-bottom: 20px;
+}
+
+.info p{
+    padding-bottom: 15px;
+}
+
+.puntuacion{
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+    background-color: #716844ac;
+    border-radius: 50%;
+    color: white;
+
+}
+
+.personajes{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    place-items: center;
+    gap: 30px;
+    margin: 40px 0px;
+}
+.personajes .personaje{
+    background-color: #716844ac;
+    color: white;
+    max-width: 220px;
+    padding: 20px 30px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+}
+
+    .personajes .personaje img{
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        margin: auto;
+    }
+
+    .personajes .personaje h2{
+        font-size: 30px;
+        margin: 20px;
+        text-align: center;
+        border-bottom: 1px solid white;
+    }
+
+    .personajes .personaje p{
+        padding-bottom: 10px;
+    }
