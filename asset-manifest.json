@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/judiith-mf/PeliculasStudioGhibli/static/css/main.854ef71f.css",
-    "main.js": "/judiith-mf/PeliculasStudioGhibli/static/js/main.905eec8f.js",
-    "static/js/787.a4b45000.chunk.js": "/judiith-mf/PeliculasStudioGhibli/static/js/787.a4b45000.chunk.js",
-    "static/media/logo2.png": "/judiith-mf/PeliculasStudioGhibli/static/media/logo2.099f06bfc720a08739ea.png",
-    "static/media/ghibli_logo_gold.png": "/judiith-mf/PeliculasStudioGhibli/static/media/ghibli_logo_gold.1302956997e8305687b9.png",
-    "index.html": "/judiith-mf/PeliculasStudioGhibli/index.html",
-    "main.854ef71f.css.map": "/judiith-mf/PeliculasStudioGhibli/static/css/main.854ef71f.css.map",
-    "main.905eec8f.js.map": "/judiith-mf/PeliculasStudioGhibli/static/js/main.905eec8f.js.map",
-    "787.a4b45000.chunk.js.map": "/judiith-mf/PeliculasStudioGhibli/static/js/787.a4b45000.chunk.js.map"
+    "main.css": "/PeliculasStudioGhibli/static/css/main.854ef71f.css",
+    "main.js": "/PeliculasStudioGhibli/static/js/main.29f8d219.js",
+    "static/js/787.a4b45000.chunk.js": "/PeliculasStudioGhibli/static/js/787.a4b45000.chunk.js",
+    "static/media/logo2.png": "/PeliculasStudioGhibli/static/media/logo2.099f06bfc720a08739ea.png",
+    "static/media/ghibli_logo_gold.png": "/PeliculasStudioGhibli/static/media/ghibli_logo_gold.1302956997e8305687b9.png",
+    "index.html": "/PeliculasStudioGhibli/index.html",
+    "main.854ef71f.css.map": "/PeliculasStudioGhibli/static/css/main.854ef71f.css.map",
+    "main.29f8d219.js.map": "/PeliculasStudioGhibli/static/js/main.29f8d219.js.map",
+    "787.a4b45000.chunk.js.map": "/PeliculasStudioGhibli/static/js/787.a4b45000.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.854ef71f.css",
-    "static/js/main.905eec8f.js"
+    "static/js/main.29f8d219.js"
   ]
 }
